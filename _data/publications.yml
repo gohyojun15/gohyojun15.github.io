@@ -30,7 +30,7 @@ main:
     # page: https://byeongjun-park.github.io/HarmonyView/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/paper_img/bridging_view.png
+    image: assets/paper_img/bridging_view.png
 
   - title: "HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D"
     authors: Sangmin Woo*, Byeongjun Park*, <strong>Hyojun Go</strong>, Jin-Young Kim, Changick Kim
