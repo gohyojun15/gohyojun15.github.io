@@ -9,16 +9,18 @@ My research interests include generative models (especially Diffusion Models), 3
 
 ## Research Interests
 
-- **Diffusion Models:** I think that diffusion models inherently take a multi-task learning, where a single model learns multiple denoising tasks across different noise levels. If we can harmoniously train a model with these tasks, I believe that the model can generate high-quality samples with small computational resources (parameters). Please check out our papers on [NeurIPS 2023](), [ICLR 2024](), [ECCV 2024](), [CVPR 2023](), and [AAAI 2024]().
+- **Diffusion Models:** I think that diffusion models inherently take a multi-task learning, where a single model learns multiple denoising tasks across different noise levels. If we can harmoniously train a model with these tasks, I believe that the model can generate high-quality samples with small computational resources (parameters). Please check out our papers on [NeurIPS 2023](https://arxiv.org/abs/2306.00354), [ICLR 2024](https://arxiv.org/abs/2310.07138), [ECCV 2024](https://arxiv.org/abs/2403.09176), [CVPR 2023](https://arxiv.org/abs/2212.05973), and [AAAI 2024](https://arxiv.org/abs/2306.04990).
 - **3D Generation:** With Diffusion Models, I am also interested in 3D generation such as Multi-View Image Generation and 3D Gaussian Splatting Generation.
 - **Video Understanding:** In addition, I am interested in advancing Video Language Models for improved video understanding.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- [Jul. 2024] One paper about Diffusion Model is accepted to ECCV 2024.
+- [Mar. 2024] One paper about Novel View Synthesis is accepted to TPAMI 2024.
+- [Feb. 2024] One paper about One-Image-to-3D is accepted to CVPR 2024.
+- [Jan. 2024] One paper about Diffusion Model is accepted to ICLR 2024.
+- [Dec. 2023] One paper about Diffusion Model is accepted to AAAI 2024.
+- [Sep. 2023] One paper about Diffusion Model is accepted to Neurips 2023.
 
 
 ## Research Experiences
