@@ -47,7 +47,7 @@ My research interests include generative models (especially Diffusion Models), 3
 
 ## Awards and Honors
 
-- **AI Seoul Invited Talks** (February 2024): Presented on the topic of "Addressing Negative Transfer in Diffusion Models".
+- **AI Seoul Invited Talks** (February 2024): Presented on the topic of "Addressing Negative Transfer in Diffusion Models" in Seoul City Hall.
 - **Summa Cum Laude** (August 2019): Graduated with a GPA of 4.28 out of 4.5.
 - **Hanyang Academic Excellence Award** (May 2018): Recognized for outstanding academic achievement.
 - **Hanyang Academic Excellence Award** (October 2017): Recognized for outstanding academic achievement.
