@@ -1,22 +1,154 @@
 main:
+  - title: "Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts"
+    authors: Byeongjun Park, <strong>Hyojun Go</strong>, Jin-Young Kim, Sangmin Woo, Seokil Ham, Changick Kim
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2403.09176
+    page: https://byeongjun-park.github.io/Switch-DiT/
+    code: https://github.com/byeongjun-park/Switch-DiT
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/paper_img/switch_dit.png
+    # notes: Early Accept
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Pegasus-v1 Technical Report"
+    authors: Twelvelabs Team
+    conference_short: Technical Report
+    conference: Technical Report, 2024.
+    pdf: https://arxiv.org/abs/2404.14687
+    # code: https://github.com/byeongjun-park/HarmonyView
+    # page: https://byeongjun-park.github.io/HarmonyView/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/pegasus.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Bridging Implicit and Explicit Geometric Transformation for Single-Image View Synthesis"
+    authors: Byeongjun Park*, Hyojun Go*, Changick Kim
+    conference_short: TPAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence. <strong>(TPAMI)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10475596
+    # code: https://github.com/byeongjun-park/HarmonyView
+    # page: https://byeongjun-park.github.io/HarmonyView/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/bridging_view.png
+
+  - title: "HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D"
+    authors: Sangmin Woo*, Byeongjun Park*, <strong>Hyojun Go</strong>, Jin-Young Kim, Changick Kim
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    pdf: https://arxiv.org/abs/2312.15980
+    code: https://github.com/byeongjun-park/HarmonyView
+    page: https://byeongjun-park.github.io/HarmonyView/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/harmony_view.png
+
+  - title: "Denoising Task Routing for Diffusion Models"
+    authors: Byeongjun Park*, Sangmin Woo*, <strong>Hyojun Go*</strong>, Jin-Young Kim*, Changick Kim
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2310.07138
+    code: https://github.com/byeongjun-park/DTR
+    page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/dtr.png
+
+  - title: "Multi-Architecture Multi-Expert Diffusion Models"
+    authors: Yunsung Lee*, JinYoung Kim*, <strong>Hyojun Go*</strong>, Myeongho Jeong, Shinhyeok Oh, Seungtaek Choi
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024
+    pdf: https://arxiv.org/abs/2306.04990
+    # code: https://github.com/byeongjun-park/DTR
+    # page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/meme.png
+
+  - title: "Addressing negative transfer in diffusion models"
+    authors: <strong>Hyojun Go*</strong>, JinYoung Kim*, Yunsung Lee*, Seunghyun Lee*, Shinhyeok Oh, Hyeongdon Moon, Seungtaek Choi
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/hash/56a7b9a07ae01ddea762dcc51280298b-Abstract-Conference.html
+    code: https://github.com/gohyojun15/ANT_diffusion
+    page: https://gohyojun15.github.io/ANT_diffusion/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/ant.png
+
+  - title: "Evaluation of Question Generation Needs More References"
+    authors: Shinhyeok Oh*, <strong>Hyojun Go*</strong>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee, Seungtaek Choi
+    conference_short: ACL
+    conference: 2023 Meeting of the Association for Computational Linguistics <strong>(ACL)</strong> findings short, 2023
+    pdf: https://arxiv.org/abs/2305.16626
+    # code: https://github.com/byeongjun-park/DTR
+    # page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/eval_qg.png
+
+  - title: "Cross Encoding as Augmentation: Towards Effective Educational Text Classification"
+    authors: Hyun Seung Lee, Seungtaek Choi, Yunsung Lee, Hyeongdon Moon, Shinhyeok Oh, Myeongho Jeong, <strong>Hyojun Go</strong>, Christian Wallraven
+    conference_short: ACL
+    conference: 2023 Meeting of the Association for Computational Linguistics <strong>(ACL)</strong> findings short, 2023
+    pdf: https://arxiv.org/abs/2305.18977
+    # code: https://github.com/byeongjun-park/DTR
+    # page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/ceaa.png
+
+  - title: "Towards Practical Plug-and-Play Diffusion Models"
+    authors: <strong>Hyojun Go*</strong>, Yunsung Lee*, Jin-Young Kim*, Seunghyun Lee, Myeongho Jeong, Hyun Seung Lee, Seungtaek Choi
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/html/Go_Towards_Practical_Plug-and-Play_Diffusion_Models_CVPR_2023_paper.html
+    code: https://github.com/riiid/PPAP
+    # page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/ppap.png
+
+  - title: "Towards Flexible Inductive Bias via Progressive Reparameterization Scheduling"
+    authors: Yunsung Lee*, Gyuseong Lee*, Kwangrok Ryoo*, <strong>Hyojun Go*</strong>, Jihye Park*, Seungryong Kim
+    conference_short: ECCVW
+    conference: European Conference on Computer Vision Workshop <strong>(ECCVW)</strong>, 2022
+    pdf: https://arxiv.org/pdf/2210.01370
+    # code: https://github.com/byeongjun-park/DTR
+    # page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/flexible_inductive.png
+
+  - title: "On the effectiveness of small input noise for defending against query-based black-box attacks"
+    authors: Junyoung Byun, <strong>Hyojun Go</strong>, Changick Kim
+    conference_short: WACV
+    conference: The IEEE/CVF winter conference on applications of computer vision <strong>(WACV)</strong>, 2022
+    pdf: https://openaccess.thecvf.com/content/WACV2022/html/Byun_On_the_Effectiveness_of_Small_Input_Noise_for_Defending_Against_WACV_2022_paper.html
+    # code: https://github.com/byeongjun-park/DTR
+    # page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/snd.png
+  
+  - title: "Geometrically Adaptive Dictionary Attack on Face Recognition"
+    authors: Junyoung Byun, <strong>Hyojun Go</strong>, Changick Kim
+    conference_short: WACV
+    conference: The IEEE/CVF winter conference on applications of computer vision <strong>(WACV)</strong>, 2022
+    pdf: https://openaccess.thecvf.com/content/WACV2022/html/Byun_Geometrically_Adaptive_Dictionary_Attack_on_Face_Recognition_WACV_2022_paper.html
+    # code: https://github.com/byeongjun-park/DTR
+    # page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/gada.png
+  
+  - title: "Fine-grained multi-class object counting"
+    authors: <strong>Hyojun Go</strong>, Junyoung Byun, Byeongjun Park, Myung-Ae Choi, Seunghwa Yoo, Changick Kim
+    conference_short: ICIP
+    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2021
+    pdf: https://ieeexplore.ieee.org/abstract/document/9506384
+    # code: https://github.com/byeongjun-park/DTR
+    # page: https://byeongjun-park.github.io/DTR/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/paper_img/kr_gruidae.png
