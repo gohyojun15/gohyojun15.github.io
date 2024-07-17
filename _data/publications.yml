@@ -35,7 +35,7 @@ main:
   - title: "HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D"
     authors: Sangmin Woo*, Byeongjun Park*, <strong>Hyojun Go</strong>, Jin-Young Kim, Changick Kim
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://arxiv.org/abs/2312.15980
     code: https://github.com/byeongjun-park/HarmonyView
     page: https://byeongjun-park.github.io/HarmonyView/
