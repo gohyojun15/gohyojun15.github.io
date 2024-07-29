@@ -55,7 +55,7 @@ main:
     image: ./assets/paper_img/dtr.png
 
   - title: "Multi-Architecture Multi-Expert Diffusion Models"
-    authors: Yunsung Lee*, JinYoung Kim*, <strong>Hyojun Go*</strong>, Myeongho Jeong, Shinhyeok Oh, Seungtaek Choi
+    authors: Yunsung Lee*, JinYoung Kim*, <strong><u>Hyojun Go*</u></strong>, Myeongho Jeong, Shinhyeok Oh, Seungtaek Choi
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024
     pdf: https://arxiv.org/abs/2306.04990
@@ -66,7 +66,7 @@ main:
     image: ./assets/paper_img/meme.png
 
   - title: "Addressing negative transfer in diffusion models"
-    authors: <strong>Hyojun Go*</strong>, JinYoung Kim*, Yunsung Lee*, Seunghyun Lee*, Shinhyeok Oh, Hyeongdon Moon, Seungtaek Choi
+    authors: <strong><u>Hyojun Go*</u></strong>, JinYoung Kim*, Yunsung Lee*, Seunghyun Lee*, Shinhyeok Oh, Hyeongdon Moon, Seungtaek Choi
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023
     pdf: https://proceedings.neurips.cc/paper_files/paper/2023/hash/56a7b9a07ae01ddea762dcc51280298b-Abstract-Conference.html
@@ -77,7 +77,7 @@ main:
     image: ./assets/paper_img/ant.png
 
   - title: "Evaluation of Question Generation Needs More References"
-    authors: Shinhyeok Oh*, <strong>Hyojun Go*</strong>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee, Seungtaek Choi
+    authors: Shinhyeok Oh*, <strong><u>Hyojun Go*</u></strong>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee, Seungtaek Choi
     conference_short: ACL
     conference: 2023 Meeting of the Association for Computational Linguistics <strong>(ACL)</strong> findings short, 2023
     pdf: https://arxiv.org/abs/2305.16626
@@ -88,7 +88,7 @@ main:
     image: ./assets/paper_img/eval_qg.png
 
   - title: "Cross Encoding as Augmentation: Towards Effective Educational Text Classification"
-    authors: Hyun Seung Lee, Seungtaek Choi, Yunsung Lee, Hyeongdon Moon, Shinhyeok Oh, Myeongho Jeong, <strong>Hyojun Go</strong>, Christian Wallraven
+    authors: Hyun Seung Lee, Seungtaek Choi, Yunsung Lee, Hyeongdon Moon, Shinhyeok Oh, Myeongho Jeong, <strong><u>Hyojun Go</u></strong>, Christian Wallraven
     conference_short: ACL
     conference: 2023 Meeting of the Association for Computational Linguistics <strong>(ACL)</strong> findings short, 2023
     pdf: https://arxiv.org/abs/2305.18977
@@ -99,7 +99,7 @@ main:
     image: ./assets/paper_img/ceaa.png
 
   - title: "Towards Practical Plug-and-Play Diffusion Models"
-    authors: <strong>Hyojun Go*</strong>, Yunsung Lee*, Jin-Young Kim*, Seunghyun Lee, Myeongho Jeong, Hyun Seung Lee, Seungtaek Choi
+    authors: <strong><u>Hyojun Go*</u></strong>, Yunsung Lee*, Jin-Young Kim*, Seunghyun Lee, Myeongho Jeong, Hyun Seung Lee, Seungtaek Choi
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023
     pdf: https://openaccess.thecvf.com/content/CVPR2023/html/Go_Towards_Practical_Plug-and-Play_Diffusion_Models_CVPR_2023_paper.html
@@ -110,7 +110,7 @@ main:
     image: ./assets/paper_img/ppap.png
 
   - title: "Towards Flexible Inductive Bias via Progressive Reparameterization Scheduling"
-    authors: Yunsung Lee*, Gyuseong Lee*, Kwangrok Ryoo*, <strong>Hyojun Go*</strong>, Jihye Park*, Seungryong Kim
+    authors: Yunsung Lee*, Gyuseong Lee*, Kwangrok Ryoo*, <strong><u>Hyojun Go*</u></strong>, Jihye Park*, Seungryong Kim
     conference_short: ECCVW
     conference: European Conference on Computer Vision Workshop <strong>(ECCVW)</strong>, 2022
     pdf: https://arxiv.org/pdf/2210.01370
@@ -121,7 +121,7 @@ main:
     image: ./assets/paper_img/flexible_inductive.png
 
   - title: "On the effectiveness of small input noise for defending against query-based black-box attacks"
-    authors: Junyoung Byun, <strong>Hyojun Go</strong>, Changick Kim
+    authors: Junyoung Byun, <strong><u>Hyojun Go</u></strong>, Changick Kim
     conference_short: WACV
     conference: The IEEE/CVF winter conference on applications of computer vision <strong>(WACV)</strong>, 2022
     pdf: https://openaccess.thecvf.com/content/WACV2022/html/Byun_On_the_Effectiveness_of_Small_Input_Noise_for_Defending_Against_WACV_2022_paper.html
@@ -132,7 +132,7 @@ main:
     image: ./assets/paper_img/snd.png
   
   - title: "Geometrically Adaptive Dictionary Attack on Face Recognition"
-    authors: Junyoung Byun, <strong>Hyojun Go</strong>, Changick Kim
+    authors: Junyoung Byun, <strong><u>Hyojun Go</u></strong>, Changick Kim
     conference_short: WACV
     conference: The IEEE/CVF winter conference on applications of computer vision <strong>(WACV)</strong>, 2022
     pdf: https://openaccess.thecvf.com/content/WACV2022/html/Byun_Geometrically_Adaptive_Dictionary_Attack_on_Face_Recognition_WACV_2022_paper.html
@@ -143,7 +143,7 @@ main:
     image: ./assets/paper_img/gada.png
   
   - title: "Fine-grained multi-class object counting"
-    authors: <strong>Hyojun Go</strong>, Junyoung Byun, Byeongjun Park, Myung-Ae Choi, Seunghwa Yoo, Changick Kim
+    authors: <strong><u>Hyojun Go</u></strong>, Junyoung Byun, Byeongjun Park, Myung-Ae Choi, Seunghwa Yoo, Changick Kim
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2021
     pdf: https://ieeexplore.ieee.org/abstract/document/9506384
