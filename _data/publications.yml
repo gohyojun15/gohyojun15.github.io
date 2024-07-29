@@ -1,6 +1,6 @@
 main:
   - title: "Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts"
-    authors: Byeongjun Park, <strong>Hyojun Go</strong>, Jin-Young Kim, Sangmin Woo, Seokil Ham, Changick Kim
+    authors: Byeongjun Park, <strong><u>Hyojun Go</u></strong>, Jin-Young Kim, Sangmin Woo, Seokil Ham, Changick Kim
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/abs/2403.09176
@@ -22,7 +22,7 @@ main:
     image: ./assets/paper_img/pegasus.png
 
   - title: "Bridging Implicit and Explicit Geometric Transformation for Single-Image View Synthesis"
-    authors: Byeongjun Park*, Hyojun Go*, Changick Kim
+    authors: Byeongjun Park*, <strong><u>Hyojun Go*</u></strong>, Changick Kim
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence. <strong>(TPAMI)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10475596
@@ -33,7 +33,7 @@ main:
     image: ./assets/paper_img/bridging_view.png
 
   - title: "HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D"
-    authors: Sangmin Woo*, Byeongjun Park*, <strong>Hyojun Go</strong>, Jin-Young Kim, Changick Kim
+    authors: Sangmin Woo*, Byeongjun Park*, <strong><u>Hyojun Go</u></strong>, Jin-Young Kim, Changick Kim
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://arxiv.org/abs/2312.15980
@@ -44,7 +44,7 @@ main:
     image: ./assets/paper_img/harmony_view.png
 
   - title: "Denoising Task Routing for Diffusion Models"
-    authors: Byeongjun Park*, Sangmin Woo*, <strong>Hyojun Go*</strong>, Jin-Young Kim*, Changick Kim
+    authors: Byeongjun Park*, Sangmin Woo*, <strong><u>Hyojun Go*</u></strong>, Jin-Young Kim*, Changick Kim
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/abs/2310.07138
