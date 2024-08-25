@@ -7,7 +7,7 @@
   <li>CVPR: 2024</li>
   <li>Neurips: 2024</li>
   <li>ECCV: 2024</li>
-  <li>ACL Rolling Review: 2024 Feb, 2024 June</li>
+  <li>ACL Rolling Review: 2024 Feb, 2024 June, 2024 Aug</li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
