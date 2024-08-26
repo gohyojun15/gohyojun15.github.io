@@ -1,4 +1,12 @@
 main:
+  - title: "TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models"
+    authors: Twelvelabs Team
+    conference_short: Technical Report
+    conference: Technical Report, 2024.
+    pdf: https://arxiv.org/abs/2408.11318
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/paper_img/twlv.png
+    
   - title: "Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts"
     authors: Byeongjun Park, <strong><u>Hyojun Go</u></strong>, Jin-Young Kim, Sangmin Woo, Seokil Ham, Changick Kim
     conference_short: ECCV
