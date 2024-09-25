@@ -10,7 +10,9 @@ My research interests include generative models (especially Diffusion Models), 3
 ## Research Interests
 
 - **Diffusion Models:** I think that diffusion models inherently take a multi-task learning, where a single model learns multiple denoising tasks across different noise levels. If we can harmoniously train a model with these tasks, I believe that the model can generate high-quality samples with small computational resources (parameters). Please check out our papers on [NeurIPS 2023](https://arxiv.org/abs/2306.00354), [ICLR 2024](https://arxiv.org/abs/2310.07138), [ECCV 2024](https://arxiv.org/abs/2403.09176), [CVPR 2023](https://arxiv.org/abs/2212.05973), and [AAAI 2024](https://arxiv.org/abs/2306.04990).
-- **3D Generation:** With Diffusion Models, I am also interested in 3D generation such as Multi-View Image Generation and 3D Gaussian Splatting Generation. [TPAMI 2024](https://www.computer.org/csdl/journal/tp/5555/01/10475596/1VrCLjNNgfS), [CVPR 2024](https://arxiv.org/abs/2312.15980)
+- **3D Generation:** My ultimate research goal is to generate and edit immerse 3D and
+4D world scenes. Based on the power of generative models, inducing the scene’s geometry prior,
+representation, and physics to them is aligned with my research interest. This reflects my publications on 3D aware generation: [TPAMI 2024](https://www.computer.org/csdl/journal/tp/5555/01/10475596/1VrCLjNNgfS), [CVPR 2024](https://arxiv.org/abs/2312.15980)
 - **Video Understanding:** In addition, I am interested in advancing Video Language Models for improved video understanding. [Pegasus Tech Report](https://arxiv.org/abs/2404.14687)
 
 ## News
