@@ -2,10 +2,12 @@ main:
   - title: "Diffusion Model Patching via Mixture-of-Prompts"
     authors: Seokil Ham*, Sangmin Woo*, Jin-Young Kim, <strong><u>Hyojun Go</u></strong>, Byeongjun Park, Changick Kim
     conference_short: AAAI
-    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025
     pdf: https://arxiv.org/pdf/2405.17825
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/paper_img/mtl_patching.png
+    page: https://sangminwoo.github.io/DMP/
+    code: https://github.com/sangminwoo/DMP
 
   - title: "TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models"
     authors: Twelvelabs Team
