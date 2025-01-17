@@ -4,9 +4,10 @@
 
 <ul style="margin:0 0 5px;">
   <li>ICLR: 2025</li>
-  <li>CVPR: 2024</li>
+  <li>CVPR: 2024, 2025</li>
   <li>Neurips: 2024</li>
   <li>ECCV: 2024</li>
+  <li>ICML: 2025</li>
   <li>ACL Rolling Review: 2024 Feb, 2024 June, 2024 Aug</li>
 </ul>
 
