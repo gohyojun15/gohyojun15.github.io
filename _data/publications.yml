@@ -1,4 +1,22 @@
 main:
+  - title: "SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis"
+    authors: <strong><u>Hyojun Go*</u></strong>, Byeongjun Park*, Jiho Jang, Jin-Young Kim, Soonwoo Kwon, Changick Kim
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.16443
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/paper_img/splatflow.png
+    page: https://gohyojun15.github.io/SplatFlow/
+    code: https://github.com/gohyojun15/SplatFlow
+
+  - title: "Denoising Task Difficulty-based Curriculum for Training Diffusion Models"
+    authors: Jin-Young Kim*, <strong><u>Hyojun Go*</u></strong>, Soonwoo Kwon, Hyun-Gyoon Kim,
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2403.10348
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/paper_img/curriculum.png
+
   - title: "Diffusion Model Patching via Mixture-of-Prompts"
     authors: Seokil Ham*, Sangmin Woo*, Jin-Young Kim, <strong><u>Hyojun Go</u></strong>, Byeongjun Park, Changick Kim
     conference_short: AAAI
