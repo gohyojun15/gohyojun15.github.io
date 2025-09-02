@@ -14,7 +14,7 @@ Prior that, I received my M.S. degree from Korea Advanced Institute of Science a
 
 - **3D Generation:** My ultimate research goal is to generate and edit immerse 3D and
 4D world scenes. Based on the power of generative models, inducing the scene’s geometry prior,
-representation, and physics to them is aligned with my research interest. This reflects my publications on 3D aware generation: [ICCV 2025 (1)](), [ICCV 2025 (2)]() [CVPR2025](https://arxiv.org/abs/2411.16443), [TPAMI 2024](https://www.computer.org/csdl/journal/tp/5555/01/10475596/1VrCLjNNgfS), [CVPR 2024](https://arxiv.org/abs/2312.15980)
+representation, and physics to them is aligned with my research interest. This reflects my publications on 3D aware generation: [ICCV 2025 (1)](https://arxiv.org/abs/2503.15855), [ICCV 2025 (2)](https://arxiv.org/pdf/2503.12024), [CVPR2025](https://arxiv.org/abs/2411.16443), [TPAMI 2024](https://www.computer.org/csdl/journal/tp/5555/01/10475596/1VrCLjNNgfS), [CVPR 2024](https://arxiv.org/abs/2312.15980)
 
 - **Diffusion Models:** I think that diffusion models inherently take a multi-task learning, where a single model learns multiple denoising tasks across different noise levels. If we can harmoniously train a model with these tasks, I believe that the model can generate high-quality samples with small computational resources (parameters). Please check out our papers on [NeurIPS 2023](https://arxiv.org/abs/2306.00354), [ICLR 2024](https://arxiv.org/abs/2310.07138), [ECCV 2024](https://arxiv.org/abs/2403.09176), [CVPR 2023](https://arxiv.org/abs/2212.05973), [AAAI 2024](https://arxiv.org/abs/2306.04990), [AAAI 2025](https://arxiv.org/abs/2405.17825), and [ICLR 2025](https://arxiv.org/abs/2403.10348)
 
