@@ -1,4 +1,24 @@
 main:
+  - title: "VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling"
+    authors: <strong><u>Hyojun Go*</u></strong>, Byeongjun Park*, Hyelin Nam, Byung-Hoon Kim, Hyungjin Chung, Changick Kim
+    conference_short: ICCV
+    conference: International Conference on Computer Vision (ICCV), 2025
+    pdf: https://arxiv.org/abs/2503.15855
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/paper_img/videorfsplat.png
+    # page: https://gohyojun15.github.io/SplatFlow/
+    # code: https://github.com/gohyojun15/SplatFlow
+
+  - title: "SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering"
+    authors: Byeongjun Park*, <strong><u>Hyojun Go*</u></strong>, Hyelin Nam, Byung-Hoon Kim, Hyungjin Chung, Changick Kim
+    conference_short: ICCV
+    conference: International Conference on Computer Vision (ICCV), 2025
+    pdf: https://arxiv.org/pdf/2503.12024
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/paper_img/steerX.png
+    # page: https://gohyojun15.github.io/SplatFlow/
+    # code: https://github.com/gohyojun15/SplatFlow
+
   - title: "SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis"
     authors: <strong><u>Hyojun Go*</u></strong>, Byeongjun Park*, Jiho Jang, Jin-Young Kim, Soonwoo Kwon, Changick Kim
     conference_short: CVPR
