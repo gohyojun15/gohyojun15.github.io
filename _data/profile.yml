@@ -1,0 +1,85 @@
+primary_name: "Hyojun Go"
+secondary_name: ""
+navbar_name: "Hyojun Go"
+
+positions:
+- name: ELLIS PhD Student
+- name: ETH Zurich & Google
+  logo: /assets/images/badges/eth.png
+
+email: "gohyojun15@gmail.com"
+# cv_link: /assets/files/curriculum_vitae.pdf
+gscholar: https://scholar.google.com/citations?user=xfiZvzsAAAAJ&hl=ko
+github: gohyojun15
+linkedin: hyojun-go-083575206
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    I am an <a href="https://ellis.eu/phd" target="_blank">ELLIS</a> PhD student
+    jointly between
+    <a href="https://prs.igp.ethz.ch/" target="_blank">ETH Zurich</a>
+    (Photogrammetry and Remote Sensing group) and
+    <a href="https://research.google/" target="_blank">Google</a>,
+    advised by Prof. <a href="https://prs.igp.ethz.ch/group/people/person-detail.schindler.html" target="_blank">Konrad Schindler</a>
+    and Dr. <a href="https://federicotombari.github.io/" target="_blank">Federico Tombari</a>.
+    I also work closely with
+    Dr. <a href="https://goutamgmb.github.io/" target="_blank">Goutam Bhat</a>
+    and Dr. <a href="https://prunetruong.com/" target="_blank">Prune Truong</a>
+    at <a href="https://research.google/" target="_blank">Google</a>.
+    My research interests include generative models (especially Diffusion Models) and 3D generation.
+  </p>
+  <p>
+    Previously, I worked as a Research Scientist for my mandatory military service at
+    <strong>Twelvelabs</strong> and <strong>Riiid</strong> (Korean military service companies).
+    Prior to that, I received my M.S. degree from KAIST.
+  </p>
+  <p>
+    <strong>Research interests.</strong>
+    <ul>
+      <li>
+        <strong>3D Generation.</strong> My ultimate research goal is to generate and edit
+        immersive 3D and 4D world scenes. Building on the power of generative models, I am
+        interested in inducing scene geometry priors, representations, and physics into them.
+      </li>
+      <li>
+        <strong>Diffusion / Flow-based Models (Few-step Generation).</strong>
+        Diffusion/flow models naturally lend themselves to multi-task learning, where a
+        single model learns denoising across noise levels. I am interested in training
+        strategies that encourage positive transfer between tasks to enable high-quality
+        generation with fewer steps and lower compute.
+      </li>
+    </ul>
+  </p>
+
+portrait_url: /assets/images/photos/hyojungo.jpeg
+
+education:
+- name: ETH Zurich
+  logo: /assets/images/badges/eth.png
+  position: Ph.D. in 3D Generation (ELLIS, with Google)
+  date: Apr. 2024 - present
+- name: KAIST
+  logo: /assets/images/badges/kaist.png
+  position: M.S. in Electrical Engineering
+  date: Mar. 2020 - Feb. 2022
+- name: Hanyang University
+  logo: /assets/images/badges/hanyang.png
+  position: B.S. in Electrical Engineering
+  date: Mar. 2015 - Aug. 2019
+
+experience:
+- name: Twelvelabs
+  logo: /assets/images/badges/twelvelabs.png
+  position: Research Scientist (Mandatory military service) — Video Language Models (Pegasus-v1)
+  date: Sep. 2023 - Mar. 2024
+- name: Riiid
+  logo: /assets/images/badges/riiid.png
+  position: Research Scientist (Mandatory military service) — Diffusion Models
+  date: Mar. 2022 - Aug. 2023
+
+awards:
+- name: Google Invited Talk
+  date: Oct. 2025
+- name: AI Seoul Invited Talk — "Addressing Negative Transfer in Diffusion Models" (Seoul City Hall)
+  date: Feb. 2024
