@@ -8,8 +8,6 @@ keywords: "Hyojun Go, academic homepage, research, publications, 3D generation, 
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-email-protect
 
 google_analytics: G-WPC3V6T2G6
 
